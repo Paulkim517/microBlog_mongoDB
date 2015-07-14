@@ -1,0 +1,28 @@
+.edit-pencil {
+  cursor: pointer;
+  margin-right: 5px;
+  margin-left: 5px;
+  opacity: .2;
+}
+
+.edit-pencil:hover {
+  opacity: .5;
+}
+
+.edit{ 
+  color: #000000;
+}
+
+
+.my-button-group{
+  display: inline-block; 
+  float: right;
+}
+
+#new-text{
+  width:100%;
+}
+
+.newformline1{
+  padding-bottom: 10px;
+}
